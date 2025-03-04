@@ -1,4 +1,4 @@
-# ubuntu에서 supermap 설치 실습 환경
+# linux(ubuntu)에서 supermap(iserver) 설치 실습 환경
 
 - username: john
 - sudo 사용 가능
